@@ -23,6 +23,8 @@ tmp/
 *.bak
 *.swp
 *~.nib
+build/
+dist/
 local.properties
 .settings/
 .loadpath
